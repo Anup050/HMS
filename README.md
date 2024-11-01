@@ -10,6 +10,6 @@ How to run the Hospital Management System Project Using PHP and MySQL
 
 Login Credentials ->
 -----------------
-Login Details for admin  :  admin/admin@123
-Login Details for Patient:  user12@gmail.com/user@123
-Login Details for Doctor :  akd.123@gmail.com/Test@123
+#Login Details for admin  :  admin/admin@123
+#Login Details for Patient:  user12@gmail.com/user@123
+#Login Details for Doctor :  akd.123@gmail.com/Test@123
