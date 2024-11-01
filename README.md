@@ -1,5 +1,10 @@
-How to run the Hospital Management System Project Using PHP and MySQL
+# How to run the Hospital Management System Project Using PHP and MySQL
 
+<h2>"HMS"</h2>
+Hospital Management System is a web application for the hospital which manages doctors and patients. In this project, we use PHP and MySQL database.
+
+## Usage
+```
 1. Either Download and Extract the zip file or git clone 
 2. Copy hospital folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
@@ -10,6 +15,10 @@ How to run the Hospital Management System Project Using PHP and MySQL
 
 Login Credentials ->
 -----------------
-#Login Details for admin  :  admin/admin@123
-#Login Details for Patient:  user12@gmail.com/user@123
-#Login Details for Doctor :  akd.123@gmail.com/Test@123
+Login Details for admin  :  admin/admin@123
+Login Details for Patient:  user12@gmail.com/user@123
+Login Details for Doctor :  akd.123@gmail.com/Test@123
+```
+
+
+
