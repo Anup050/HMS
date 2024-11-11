@@ -315,6 +315,7 @@ while ($row=mysqli_fetch_array($ret)) {
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
                 <img src="assets/images/gallery/gallery_06.jpg" class="img-responsive">
             </div>
+            
 
         </div>
     </div>
